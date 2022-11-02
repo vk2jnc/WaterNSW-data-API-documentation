@@ -1,5 +1,10 @@
 # Introduction
 
+This is an updated version of the great work done by Andrewcowley! (Made for Dummies)
+
+I have used Postman to do all the hard work, i will list below to step i did to make this work. 
+
+
 One of the services [WaterNSW](https://www.waternsw.com.au/) provides is the monitoring of rivers, dams and groundwater across the state of New South Wales, Australia. This data is made available [via their website](https://realtimedata.waternsw.com.au/), [mobile apps](https://www.waternsw.com.au/supply/regional-nsw/real-time-data#footer) as well as a web service.
 
 The web service allows a user to request realtime and historical timeseries data for monitoring site via HTTP and have the data returned in JSON or CSV format.
